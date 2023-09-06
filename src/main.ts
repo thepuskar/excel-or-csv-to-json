@@ -1,5 +1,5 @@
 import { toastContainer } from "./toastContainer";
-import { handleFileSelect, onClickCopyBtn } from "./utils/handleFileSelect";
+import { handleFileSelect, onClickCopyBtn } from "./utils";
 
 import "./style.css";
 import "bootstrap/dist/css/bootstrap.min.css";
